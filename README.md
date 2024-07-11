@@ -1,6 +1,4 @@
-Here's a sample README file for your image classification application using TensorFlow Lite in Java:
 
----
 
 # Image Classification App
 
@@ -20,7 +18,7 @@ This is an image classification application built using TensorFlow Lite in Java.
 
 1. **Clone the repository**:
     ```bash
-    git clone 
+    [git clone](https://github.com/SabarishCodeWizard/Image-Classify-Application.git) 
     ```
 
 2. **Open the project in Android Studio**:
